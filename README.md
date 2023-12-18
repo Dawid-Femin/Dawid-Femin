@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">A passionate frontend developer from Rzeszów</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently develop my skills with **React, Node, Express, Nest**
+- 🌱 I’m currently develop my skills with **PHP (Symfony, Laravel, WordPress), MySQL, PostgreSQL, JS(Node, React)**
 
 - 📫 How to reach me **dawid.femin@gmail.com**
 
